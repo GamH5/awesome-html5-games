@@ -18,7 +18,7 @@ Check out **[GamH5 ¨C HTML5 Game Portal](https://gamh5.com)** for a growing col
 ![Stickman Archer](https://gamh5.com/games/epic-tower-defense-strategy-game/thumb_2.jpg)
 
 A minimalist archery game with physics-based controls.  
-[Play now ¡ú]([[https://gamh5.com/game/epic-tower-defense-strategy-game]/)
+[Play now ¡ú]([[https://gamh5.com/game/epic-tower-defense-strategy-game])
 
 ---
 
