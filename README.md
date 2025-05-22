@@ -38,9 +38,9 @@ Each category features hand-picked HTML5 games optimized for smooth performance 
 
 Here are a few notable games you can try:
 
-- [Stickman Archer](https://gamh5.com/game/stickman-archer/)
-- [2048 Merge](https://gamh5.com/game/2048-merge/)
-- [Endless Car Race](https://gamh5.com/game/endless-car-race/)
+- [Stickman Archer](https://gamh5.com/category/bubble-shooter/)
+- [2048 Merge](https://gamh5.com/category/merge/)
+- [Endless Car Race](https://gamh5.com/category/racing/)
 
 > Browse more games at [GamH5](https://gamh5.com).
 
