@@ -8,7 +8,7 @@ These games require no installation and run directly in your browser. Ideal for 
 ## ?? Featured Game Portal
 
 Looking for a wider selection of games?  
-Check out **[GamH5 每 HTML5 Game Portal](https://gamh5.com)** for a growing collection of lightweight, mobile-friendly browser games.
+Check out **[GamH5 穡C HTML5 Game Portal](https://gamh5.com)** for a growing collection of lightweight, mobile-friendly browser games.
 
 > Play instantly. No downloads. 100% free.
 
@@ -18,17 +18,17 @@ Check out **[GamH5 每 HTML5 Game Portal](https://gamh5.com)** for a growing coll
 ![Stickman Archer](https://gamh5.com/games/epic-tower-defense-strategy-game/thumb_2.jpg)
 
 A minimalist archery game with physics-based controls.  
-[Play now ↙](https://gamh5.com/game/stickman-archer/)
+[Play now 癒繳](https://gamh5.com/game/stickman-archer/)
 
 ---
 
 ## ?? Game Categories
 
-- ?? [Action Games](https://gamh5.com/action/)
-- ?? [Puzzle Games](https://gamh5.com/puzzle/)
-- ?? [Racing Games](https://gamh5.com/racing/)
-- ?? [Shooting Games](https://gamh5.com/shooting/)
-- ?? [Kids Games](https://gamh5.com/kids/)
+- ?? [Action Games](https://gamh5.com/category/action/)
+- ?? [Puzzle Games](https://gamh5.com/category/puzzle/)
+- ?? [Racing Games](https://gamh5.com/category/racing/)
+- ?? [Shooting Games](https://gamh5.com/category/shooting/)
+- ?? [Kids Games](https://gamh5.com/category/kids/)
 
 Each category features hand-picked HTML5 games optimized for smooth performance and fast loading.
 
@@ -59,8 +59,8 @@ This list is open source and maintained by the community.
 
 ## ?? Related Open-Source Projects
 
-- [photonstorm/phaser](https://github.com/photonstorm/phaser) 每 A fast, free and fun open source framework for Canvas and WebGL powered browser games.
-- [playcanvas/engine](https://github.com/playcanvas/engine) 每 The open-source game engine for building HTML5 games and apps.
-- [babylonjs/babylon.js](https://github.com/BabylonJS/Babylon.js) 每 Powerful 3D game engine for HTML5 and WebGL.
+- [photonstorm/phaser](https://github.com/photonstorm/phaser) 穡C A fast, free and fun open source framework for Canvas and WebGL powered browser games.
+- [playcanvas/engine](https://github.com/playcanvas/engine) 穡C The open-source game engine for building HTML5 games and apps.
+- [babylonjs/babylon.js](https://github.com/BabylonJS/Babylon.js) 穡C Powerful 3D game engine for HTML5 and WebGL.
 
 > The games listed above were built using or inspired by these awesome tools.
